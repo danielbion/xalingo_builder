@@ -20,6 +20,8 @@ Isso criará um arquivo `construction.pdf` contendo a renderização visual de t
 
 ![building](image.png)
 
+![printing](image-1.png)
+
 ## Descrição
 
 - Cada peça é desenhada com base em seu formato (square, triangle, arc), largura, altura e cor.
