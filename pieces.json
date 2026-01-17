@@ -1,0 +1,9 @@
+[
+  {"id": "window", "width": 1, "height": 1, "color": "green", "format": "square", "max_quantity": 49},
+  {"id": "2x window", "width": 2, "height": 1, "color": "red", "format": "square", "max_quantity": 24},
+  {"id": "tower clock", "width": 1, "height": 2, "color": "blue", "format": "square", "max_quantity": 7},
+  {"id": "small roof", "width": 1, "height": 1, "color": "red", "format": "triangle", "max_quantity": 41},
+  {"id": "large roof", "width": 2, "height": 2, "color": "red", "format": "triangle", "max_quantity": 7},
+  {"id": "bridge", "width": 2, "height": 1, "color": "red", "format": "arc", "max_quantity": 16},
+  {"id": "door", "width": 1, "height": 1, "color": "beige", "format": "arc", "max_quantity": 16}
+]

@@ -1,0 +1,359 @@
+{
+  "easy_1": [
+    {"piece_id": "door", "x": 0, "y": 0},
+    {"piece_id": "door", "x": 1, "y": 0},
+    {"piece_id": "window", "x": 2, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 1},
+    {"piece_id": "window", "x": 2, "y": 1},
+    {"piece_id": "large roof", "x": 0, "y": 2},
+    {"piece_id": "small roof", "x": 2, "y": 2}
+  ],
+  "easy_2": [
+    {"piece_id": "door", "x": 0, "y": 0},
+    {"piece_id": "tower clock", "x": 0, "y": 1},
+    {"piece_id": "tower clock", "x": 0, "y": 3},
+    {"piece_id": "small roof", "x": 0, "y": 5},
+    {"piece_id": "window", "x": 1, "y": 0},
+    {"piece_id": "small roof", "x": 1, "y": 1}
+  ],
+  "easy_3": [
+    {"piece_id": "door", "x": 0, "y": 0},
+    {"piece_id": "2x window", "x": 1, "y": 0},
+    {"piece_id": "door", "x": 3, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1},
+    {"piece_id": "bridge", "x": 1, "y": 1},
+    {"piece_id": "window", "x": 3, "y": 1},
+    {"piece_id": "small roof", "x": 0, "y": 2},
+    {"piece_id": "window", "x": 1, "y": 2},
+    {"piece_id": "window", "x": 2, "y": 2},
+    {"piece_id": "small roof", "x": 3, "y": 2}
+  ],
+  "easy_4": [
+    {"piece_id": "2x window", "x": 0, "y": 0},
+    {"piece_id": "2x window", "x": 2, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1},
+    {"piece_id": "window", "x": 1, "y": 1},
+    {"piece_id": "window", "x": 2, "y": 1},
+    {"piece_id": "window", "x": 3, "y": 1},
+    {"piece_id": "large roof", "x": 0, "y": 2},
+    {"piece_id": "large roof", "x": 2, "y": 2}
+  ],
+  "easy_5": [
+    {"piece_id": "door", "x": 0, "y": 0},
+    {"piece_id": "2x window", "x": 1, "y": 0},
+    {"piece_id": "door", "x": 3, "y": 0},
+    {"piece_id": "tower clock", "x": 0, "y": 1},
+    {"piece_id": "bridge", "x": 1, "y": 1},
+    {"piece_id": "tower clock", "x": 3, "y": 1},
+    {"piece_id": "small roof", "x": 1, "y": 2},
+    {"piece_id": "small roof", "x": 2, "y": 2},
+    {"piece_id": "small roof", "x": 0, "y": 3},
+    {"piece_id": "small roof", "x": 3, "y": 3}
+  ],
+  "easy_6": [
+    {"piece_id": "2x window", "x": 0, "y": 0},
+    {"piece_id": "2x window", "x": 2, "y": 0},
+    {"piece_id": "2x window", "x": 4, "y": 0},
+    {"piece_id": "large roof", "x": 0, "y": 1},
+    {"piece_id": "large roof", "x": 2, "y": 1},
+    {"piece_id": "large roof", "x": 4, "y": 1},
+    {"piece_id": "window", "x": 6, "y": 0}
+  ],
+  "easy_7": [
+    {"piece_id": "door", "x": 0, "y": 0},
+    {"piece_id": "window", "x": 1, "y": 0},
+    {"piece_id": "window", "x": 1, "y": 1},
+    {"piece_id": "window", "x": 2, "y": 0},
+    {"piece_id": "window", "x": 2, "y": 1},
+    {"piece_id": "small roof", "x": 2, "y": 2}
+  ],
+  "easy_8": [
+    {"piece_id": "window", "x": 0, "y": 0},
+    {"piece_id": "door", "x": 1, "y": 0},
+    {"piece_id": "window", "x": 2, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1},
+    {"piece_id": "window", "x": 1, "y": 1},
+    {"piece_id": "window", "x": 2, "y": 1},
+    {"piece_id": "bridge", "x": 0, "y": 2},
+    {"piece_id": "window", "x": 2, "y": 2},
+    {"piece_id": "large roof", "x": 0, "y": 3}
+  ],
+  "easy_9": [
+    {"piece_id": "door", "x": 0, "y": 0},
+    {"piece_id": "window", "x": 1, "y": 0},
+    {"piece_id": "door", "x": 2, "y": 0},
+    {"piece_id": "tower clock", "x": 0, "y": 1},
+    {"piece_id": "window", "x": 1, "y": 1},
+    {"piece_id": "tower clock", "x": 2, "y": 1},
+    {"piece_id": "tower clock", "x": 0, "y": 3},
+    {"piece_id": "tower clock", "x": 2, "y": 3},
+    {"piece_id": "small roof", "x": 0, "y": 5},
+    {"piece_id": "small roof", "x": 2, "y": 5}
+  ],
+  "easy_10": [
+    {"piece_id": "2x window", "x": 0, "y": 0},
+    {"piece_id": "2x window", "x": 2, "y": 0},
+    {"piece_id": "2x window", "x": 4, "y": 0},
+    {"piece_id": "small roof", "x": 0, "y": 1},
+    {"piece_id": "small roof", "x": 1, "y": 1},
+    {"piece_id": "small roof", "x": 2, "y": 1},
+    {"piece_id": "small roof", "x": 3, "y": 1},
+    {"piece_id": "small roof", "x": 4, "y": 1},
+    {"piece_id": "small roof", "x": 5, "y": 1}
+  ],
+  "medium_1": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 1, "y": 0}, {"piece_id": "2x window", "x": 3, "y": 0}, {"piece_id": "door", "x": 5, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "bridge", "x": 1, "y": 1}, {"piece_id": "bridge", "x": 3, "y": 1}, {"piece_id": "window", "x": 5, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2},
+    {"piece_id": "large roof", "x": 0, "y": 3}, {"piece_id": "large roof", "x": 2, "y": 3}, {"piece_id": "large roof", "x": 4, "y": 3}
+  ],
+  "medium_2": [
+    {"piece_id": "tower clock", "x": 0, "y": 0}, {"piece_id": "tower clock", "x": 1, "y": 0}, {"piece_id": "tower clock", "x": 2, "y": 0}, {"piece_id": "tower clock", "x": 3, "y": 0},
+    {"piece_id": "tower clock", "x": 4, "y": 0}, {"piece_id": "tower clock", "x": 5, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 2}, {"piece_id": "bridge", "x": 2, "y": 2}, {"piece_id": "bridge", "x": 4, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3},
+    {"piece_id": "small roof", "x": 0, "y": 4}, {"piece_id": "small roof", "x": 1, "y": 4}, {"piece_id": "small roof", "x": 4, "y": 4}, {"piece_id": "small roof", "x": 5, "y": 4}
+  ],
+  "medium_3": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1},
+    {"piece_id": "tower clock", "x": 2, "y": 2}, {"piece_id": "tower clock", "x": 3, "y": 2},
+    {"piece_id": "bridge", "x": 0, "y": 2}, {"piece_id": "bridge", "x": 4, "y": 2},
+    {"piece_id": "small roof", "x": 0, "y": 3}, {"piece_id": "small roof", "x": 1, "y": 3}, {"piece_id": "small roof", "x": 4, "y": 3}, {"piece_id": "small roof", "x": 5, "y": 3}
+  ],
+  "medium_4": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0},
+    {"piece_id": "2x window", "x": 0, "y": 1}, {"piece_id": "2x window", "x": 2, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2},
+    {"piece_id": "bridge", "x": 0, "y": 3}, {"piece_id": "bridge", "x": 2, "y": 3},
+    {"piece_id": "large roof", "x": 0, "y": 4}, {"piece_id": "large roof", "x": 2, "y": 4}
+  ],
+  "medium_5": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "large roof", "x": 1, "y": 2}, {"piece_id": "large roof", "x": 3, "y": 2}, {"piece_id": "large roof", "x": 5, "y": 2}
+  ],
+  "medium_6": [
+    {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0},
+    {"piece_id": "tower clock", "x": 1, "y": 1}, {"piece_id": "tower clock", "x": 2, "y": 1},
+    {"piece_id": "tower clock", "x": 1, "y": 3}, {"piece_id": "tower clock", "x": 2, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 0}, {"piece_id": "window", "x": 3, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 3, "y": 1},
+    {"piece_id": "small roof", "x": 0, "y": 2}, {"piece_id": "small roof", "x": 3, "y": 2},
+    {"piece_id": "large roof", "x": 1, "y": 5}
+  ],
+  "medium_7": [
+    {"piece_id": "window", "x": 0, "y": 0}, {"piece_id": "window", "x": 1, "y": 0}, {"piece_id": "window", "x": 2, "y": 0}, {"piece_id": "window", "x": 3, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2},
+    {"piece_id": "large roof", "x": 0, "y": 3}, {"piece_id": "large roof", "x": 2, "y": 3}
+  ],
+  "medium_8": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 4, "y": 0},
+    {"piece_id": "window", "x": 1, "y": 0}, {"piece_id": "window", "x": 3, "y": 0}, {"piece_id": "window", "x": 5, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 1}, {"piece_id": "bridge", "x": 2, "y": 1}, {"piece_id": "bridge", "x": 4, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2},
+    {"piece_id": "small roof", "x": 0, "y": 3}, {"piece_id": "small roof", "x": 5, "y": 3}
+  ],
+  "medium_9": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0},
+    {"piece_id": "tower clock", "x": 0, "y": 1}, {"piece_id": "tower clock", "x": 5, "y": 1},
+    {"piece_id": "bridge", "x": 1, "y": 1}, {"piece_id": "bridge", "x": 3, "y": 1},
+    {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2},
+    {"piece_id": "small roof", "x": 0, "y": 3}, {"piece_id": "small roof", "x": 5, "y": 3}, {"piece_id": "large roof", "x": 2, "y": 3}
+  ],
+  "medium_10": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 1}, {"piece_id": "bridge", "x": 2, "y": 1}, {"piece_id": "bridge", "x": 4, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2},
+    {"piece_id": "small roof", "x": 1, "y": 3}, {"piece_id": "small roof", "x": 4, "y": 3}
+  ],
+  "hard_1": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "bridge", "x": 0, "y": 2}, {"piece_id": "bridge", "x": 2, "y": 2}, {"piece_id": "bridge", "x": 4, "y": 2}, {"piece_id": "bridge", "x": 6, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}, {"piece_id": "window", "x": 7, "y": 3}
+  ],
+  "hard_2": [
+    {"piece_id": "tower clock", "x": 0, "y": 0}, {"piece_id": "tower clock", "x": 7, "y": 0},
+    {"piece_id": "2x window", "x": 1, "y": 0}, {"piece_id": "2x window", "x": 3, "y": 0}, {"piece_id": "2x window", "x": 5, "y": 0},
+    {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1},
+    {"piece_id": "bridge", "x": 1, "y": 2}, {"piece_id": "bridge", "x": 3, "y": 2}, {"piece_id": "bridge", "x": 5, "y": 2},
+    {"piece_id": "tower clock", "x": 0, "y": 2}, {"piece_id": "tower clock", "x": 7, "y": 2},
+    {"piece_id": "tower clock", "x": 0, "y": 4}, {"piece_id": "tower clock", "x": 7, "y": 4},
+    {"piece_id": "small roof", "x": 0, "y": 6}, {"piece_id": "small roof", "x": 7, "y": 6},
+    {"piece_id": "large roof", "x": 1, "y": 3}, {"piece_id": "large roof", "x": 3, "y": 3}, {"piece_id": "large roof", "x": 5, "y": 3}
+  ],
+  "hard_3": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 1}, {"piece_id": "bridge", "x": 2, "y": 1}, {"piece_id": "bridge", "x": 4, "y": 1}, {"piece_id": "bridge", "x": 6, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2}, {"piece_id": "2x window", "x": 4, "y": 2}, {"piece_id": "2x window", "x": 6, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}, {"piece_id": "window", "x": 7, "y": 3},
+    {"piece_id": "small roof", "x": 0, "y": 4}, {"piece_id": "small roof", "x": 7, "y": 4}
+  ],
+  "hard_4": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "tower clock", "x": 0, "y": 1}, {"piece_id": "tower clock", "x": 2, "y": 1}, {"piece_id": "tower clock", "x": 4, "y": 1}, {"piece_id": "tower clock", "x": 6, "y": 1},
+    {"piece_id": "tower clock", "x": 1, "y": 1}, {"piece_id": "tower clock", "x": 3, "y": 1}, {"piece_id": "tower clock", "x": 5, "y": 1}, {"piece_id": "tower clock", "x": 7, "y": 1},
+    {"piece_id": "bridge", "x": 0, "y": 3}, {"piece_id": "bridge", "x": 2, "y": 3}, {"piece_id": "bridge", "x": 4, "y": 3}, {"piece_id": "bridge", "x": 6, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 4}, {"piece_id": "window", "x": 1, "y": 4}, {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4}, {"piece_id": "window", "x": 6, "y": 4}, {"piece_id": "window", "x": 7, "y": 4},
+    {"piece_id": "small roof", "x": 3, "y": 5}, {"piece_id": "small roof", "x": 4, "y": 5}
+  ],
+  "hard_5": [
+    {"piece_id": "window", "x": 0, "y": 0}, {"piece_id": "window", "x": 1, "y": 0}, {"piece_id": "window", "x": 2, "y": 0}, {"piece_id": "window", "x": 3, "y": 0}, {"piece_id": "window", "x": 4, "y": 0}, {"piece_id": "window", "x": 5, "y": 0}, {"piece_id": "window", "x": 6, "y": 0}, {"piece_id": "window", "x": 7, "y": 0},
+    {"piece_id": "door", "x": 0, "y": 1}, {"piece_id": "door", "x": 1, "y": 1}, {"piece_id": "door", "x": 2, "y": 1}, {"piece_id": "door", "x": 3, "y": 1}, {"piece_id": "door", "x": 4, "y": 1}, {"piece_id": "door", "x": 5, "y": 1}, {"piece_id": "door", "x": 6, "y": 1}, {"piece_id": "door", "x": 7, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2}, {"piece_id": "2x window", "x": 4, "y": 2}, {"piece_id": "2x window", "x": 6, "y": 2},
+    {"piece_id": "large roof", "x": 0, "y": 3}, {"piece_id": "large roof", "x": 2, "y": 3}, {"piece_id": "large roof", "x": 4, "y": 3}, {"piece_id": "large roof", "x": 6, "y": 3}
+  ],
+  "hard_6": [
+    {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0},
+    {"piece_id": "2x window", "x": 1, "y": 1}, {"piece_id": "2x window", "x": 5, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2},{"piece_id": "2x window", "x": 4, "y": 2}, {"piece_id": "2x window", "x": 6, "y": 2},
+    {"piece_id": "tower clock", "x": 0, "y": 0}, {"piece_id": "tower clock", "x": 3, "y": 0}, {"piece_id": "tower clock", "x": 4, "y": 0}, {"piece_id": "tower clock", "x": 7, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 3}, {"piece_id": "bridge", "x": 2, "y": 3}, {"piece_id": "bridge", "x": 4, "y": 3}, {"piece_id": "bridge", "x": 6, "y": 3},
+    {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4},
+    {"piece_id": "small roof", "x": 3, "y": 5}, {"piece_id": "small roof", "x": 4, "y": 5}
+  ],
+  "hard_7": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "bridge", "x": 1, "y": 2}, {"piece_id": "bridge", "x": 3, "y": 2}, {"piece_id": "bridge", "x": 5, "y": 2},
+    {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3},
+    {"piece_id": "large roof", "x": 2, "y": 4}, {"piece_id": "large roof", "x": 4, "y": 4},
+    {"piece_id": "small roof", "x": 1, "y": 4}, {"piece_id": "small roof", "x": 6, "y": 4}
+  ],
+  "hard_8": [
+    {"piece_id": "window", "x": 0, "y": 0}, {"piece_id": "window", "x": 1, "y": 0}, {"piece_id": "window", "x": 2, "y": 0}, {"piece_id": "window", "x": 3, "y": 0}, {"piece_id": "window", "x": 4, "y": 0}, {"piece_id": "window", "x": 5, "y": 0}, {"piece_id": "window", "x": 6, "y": 0}, {"piece_id": "window", "x": 7, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2}, {"piece_id": "2x window", "x": 4, "y": 2}, {"piece_id": "2x window", "x": 6, "y": 2},
+    {"piece_id": "large roof", "x": 0, "y": 3}, {"piece_id": "large roof", "x": 2, "y": 3}, {"piece_id": "large roof", "x": 4, "y": 3}, {"piece_id": "large roof", "x": 6, "y": 3}
+  ],
+  "hard_9": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2}, {"piece_id": "2x window", "x": 4, "y": 2}, {"piece_id": "2x window", "x": 6, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}
+  ],
+  "hard_10": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 1}, {"piece_id": "bridge", "x": 2, "y": 1}, {"piece_id": "bridge", "x": 4, "y": 1}, {"piece_id": "bridge", "x": 6, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "small roof", "x": 0, "y": 3}, {"piece_id": "small roof", "x": 1, "y": 3}, {"piece_id": "small roof", "x": 2, "y": 3}, {"piece_id": "small roof", "x": 3, "y": 3}, {"piece_id": "small roof", "x": 4, "y": 3}, {"piece_id": "small roof", "x": 5, "y": 3}
+  ],
+  "very_hard_1": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "2x window", "x": 0, "y": 1}, {"piece_id": "2x window", "x": 2, "y": 1}, {"piece_id": "2x window", "x": 4, "y": 1}, {"piece_id": "2x window", "x": 6, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "bridge", "x": 0, "y": 3}, {"piece_id": "bridge", "x": 2, "y": 3}, {"piece_id": "bridge", "x": 4, "y": 3}, {"piece_id": "bridge", "x": 6, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 4}, {"piece_id": "window", "x": 1, "y": 4}, {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4}, {"piece_id": "window", "x": 6, "y": 4}, {"piece_id": "window", "x": 7, "y": 4},
+    {"piece_id": "tower clock", "x": 0, "y": 5}, {"piece_id": "tower clock", "x": 7, "y": 5}, {"piece_id": "window", "x": 1, "y": 5}, {"piece_id": "window", "x": 2, "y": 5}, {"piece_id": "window", "x": 3, "y": 5}, {"piece_id": "window", "x": 4, "y": 5}, {"piece_id": "window", "x": 5, "y": 5}, {"piece_id": "window", "x": 6, "y": 5},
+    {"piece_id": "large roof", "x": 1, "y": 6}, {"piece_id": "large roof", "x": 3, "y": 6}, {"piece_id": "large roof", "x": 5, "y": 6}, {"piece_id": "small roof", "x": 0, "y": 7}, {"piece_id": "small roof", "x": 7, "y": 7}
+  ],
+  "very_hard_2": [
+    {"piece_id": "window", "x": 0, "y": 0}, {"piece_id": "window", "x": 1, "y": 0}, {"piece_id": "window", "x": 2, "y": 0}, {"piece_id": "window", "x": 3, "y": 0}, {"piece_id": "window", "x": 4, "y": 0}, {"piece_id": "window", "x": 5, "y": 0}, {"piece_id": "window", "x": 6, "y": 0}, {"piece_id": "window", "x": 7, "y": 0},
+    {"piece_id": "tower clock", "x": 0, "y": 1}, {"piece_id": "tower clock", "x": 1, "y": 1}, {"piece_id": "tower clock", "x": 2, "y": 1}, {"piece_id": "tower clock", "x": 5, "y": 1}, {"piece_id": "tower clock", "x": 6, "y": 1}, {"piece_id": "tower clock", "x": 7, "y": 1},
+    {"piece_id": "bridge", "x": 3, "y": 1}, {"piece_id": "bridge", "x": 3, "y": 2}, {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}, {"piece_id": "window", "x": 7, "y": 3},
+    {"piece_id": "2x window", "x": 0, "y": 4}, {"piece_id": "2x window", "x": 2, "y": 4}, {"piece_id": "2x window", "x": 4, "y": 4}, {"piece_id": "2x window", "x": 6, "y": 4},
+    {"piece_id": "2x window", "x": 0, "y": 5}, {"piece_id": "2x window", "x": 2, "y": 5}, {"piece_id": "2x window", "x": 4, "y": 5}, {"piece_id": "2x window", "x": 6, "y": 5},
+    {"piece_id": "window", "x": 0, "y": 6}, {"piece_id": "window", "x": 1, "y": 6}, {"piece_id": "window", "x": 2, "y": 6}, {"piece_id": "window", "x": 3, "y": 6}, {"piece_id": "window", "x": 4, "y": 6}, {"piece_id": "window", "x": 5, "y": 6}, {"piece_id": "window", "x": 6, "y": 6}, {"piece_id": "window", "x": 7, "y": 6},
+    {"piece_id": "small roof", "x": 0, "y": 7}, {"piece_id": "small roof", "x": 1, "y": 7}, {"piece_id": "small roof", "x": 2, "y": 7}, {"piece_id": "small roof", "x": 3, "y": 7}, {"piece_id": "small roof", "x": 4, "y": 7}, {"piece_id": "small roof", "x": 5, "y": 7}, {"piece_id": "small roof", "x": 6, "y": 7}, {"piece_id": "small roof", "x": 7, "y": 7}
+  ],
+  "very_hard_3": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}, {"piece_id": "window", "x": 7, "y": 3},
+    {"piece_id": "bridge", "x": 0, "y": 4}, {"piece_id": "bridge", "x": 2, "y": 4}, {"piece_id": "bridge", "x": 4, "y": 4}, {"piece_id": "bridge", "x": 6, "y": 4},
+    {"piece_id": "2x window", "x": 0, "y": 5}, {"piece_id": "2x window", "x": 2, "y": 5}, {"piece_id": "2x window", "x": 4, "y": 5}, {"piece_id": "2x window", "x": 6, "y": 5},
+    {"piece_id": "large roof", "x": 0, "y": 6}, {"piece_id": "large roof", "x": 2, "y": 6}, {"piece_id": "large roof", "x": 4, "y": 6}, {"piece_id": "large roof", "x": 6, "y": 6}
+  ],
+  "very_hard_4": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 1}, {"piece_id": "bridge", "x": 2, "y": 1}, {"piece_id": "bridge", "x": 4, "y": 1}, {"piece_id": "bridge", "x": 6, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "tower clock", "x": 0, "y": 3}, {"piece_id": "tower clock", "x": 1, "y": 3}, {"piece_id": "tower clock", "x": 2, "y": 3}, {"piece_id": "tower clock", "x": 5, "y": 3}, {"piece_id": "tower clock", "x": 6, "y": 3}, {"piece_id": "tower clock", "x": 7, "y": 3},
+    {"piece_id": "2x window", "x": 3, "y": 3}, {"piece_id": "bridge", "x": 3, "y": 4},
+    {"piece_id": "window", "x": 0, "y": 5}, {"piece_id": "window", "x": 1, "y": 5}, {"piece_id": "window", "x": 2, "y": 5}, {"piece_id": "window", "x": 3, "y": 5}, {"piece_id": "window", "x": 4, "y": 5}, {"piece_id": "window", "x": 5, "y": 5}, {"piece_id": "window", "x": 6, "y": 5}, {"piece_id": "window", "x": 7, "y": 5},
+    {"piece_id": "small roof", "x": 0, "y": 6}, {"piece_id": "small roof", "x": 1, "y": 6}, {"piece_id": "small roof", "x": 2, "y": 6}, {"piece_id": "small roof", "x": 5, "y": 6}, {"piece_id": "small roof", "x": 6, "y": 6}, {"piece_id": "small roof", "x": 7, "y": 6},
+    {"piece_id": "large roof", "x": 3, "y": 6}
+  ],
+  "very_hard_5": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "2x window", "x": 0, "y": 1}, {"piece_id": "2x window", "x": 2, "y": 1}, {"piece_id": "2x window", "x": 4, "y": 1}, {"piece_id": "2x window", "x": 6, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2}, {"piece_id": "2x window", "x": 4, "y": 2}, {"piece_id": "2x window", "x": 6, "y": 2},
+    {"piece_id": "bridge", "x": 0, "y": 3}, {"piece_id": "bridge", "x": 2, "y": 3}, {"piece_id": "bridge", "x": 4, "y": 3}, {"piece_id": "bridge", "x": 6, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 4}, {"piece_id": "window", "x": 1, "y": 4}, {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4}, {"piece_id": "window", "x": 6, "y": 4}, {"piece_id": "window", "x": 7, "y": 4},
+    {"piece_id": "window", "x": 0, "y": 5}, {"piece_id": "window", "x": 1, "y": 5}, {"piece_id": "window", "x": 2, "y": 5}, {"piece_id": "window", "x": 3, "y": 5}, {"piece_id": "window", "x": 4, "y": 5}, {"piece_id": "window", "x": 5, "y": 5}, {"piece_id": "window", "x": 6, "y": 5}, {"piece_id": "window", "x": 7, "y": 5},
+    {"piece_id": "small roof", "x": 0, "y": 6}, {"piece_id": "small roof", "x": 1, "y": 6}, {"piece_id": "small roof", "x": 2, "y": 6}, {"piece_id": "small roof", "x": 3, "y": 6}, {"piece_id": "small roof", "x": 4, "y": 6}, {"piece_id": "small roof", "x": 5, "y": 6}, {"piece_id": "small roof", "x": 6, "y": 6}, {"piece_id": "small roof", "x": 7, "y": 6}
+  ],
+  "very_hard_6": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "2x window", "x": 0, "y": 1}, {"piece_id": "2x window", "x": 2, "y": 1}, {"piece_id": "2x window", "x": 4, "y": 1}, {"piece_id": "2x window", "x": 6, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "bridge", "x": 0, "y": 3}, {"piece_id": "bridge", "x": 2, "y": 3}, {"piece_id": "bridge", "x": 4, "y": 3}, {"piece_id": "bridge", "x": 6, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 4}, {"piece_id": "window", "x": 1, "y": 4}, {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4}, {"piece_id": "window", "x": 6, "y": 4}, {"piece_id": "window", "x": 7, "y": 4},
+    {"piece_id": "large roof", "x": 0, "y": 5}, {"piece_id": "large roof", "x": 2, "y": 5}, {"piece_id": "large roof", "x": 4, "y": 5}, {"piece_id": "large roof", "x": 6, "y": 5}
+  ],
+  "very_hard_7": [
+    {"piece_id": "window", "x": 0, "y": 0}, {"piece_id": "window", "x": 1, "y": 0}, {"piece_id": "window", "x": 2, "y": 0}, {"piece_id": "window", "x": 3, "y": 0}, {"piece_id": "window", "x": 4, "y": 0}, {"piece_id": "window", "x": 5, "y": 0}, {"piece_id": "window", "x": 6, "y": 0}, {"piece_id": "window", "x": 7, "y": 0},
+    {"piece_id": "tower clock", "x": 0, "y": 1}, {"piece_id": "tower clock", "x": 1, "y": 1}, {"piece_id": "tower clock", "x": 2, "y": 1}, {"piece_id": "tower clock", "x": 3, "y": 1}, {"piece_id": "tower clock", "x": 4, "y": 1}, {"piece_id": "tower clock", "x": 5, "y": 1}, {"piece_id": "tower clock", "x": 6, "y": 1},
+    {"piece_id": "window", "x": 7, "y": 1}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "2x window", "x": 0, "y": 3}, {"piece_id": "2x window", "x": 2, "y": 3}, {"piece_id": "2x window", "x": 4, "y": 3}, {"piece_id": "2x window", "x": 6, "y": 3},
+    {"piece_id": "bridge", "x": 0, "y": 4}, {"piece_id": "bridge", "x": 2, "y": 4}, {"piece_id": "bridge", "x": 4, "y": 4}, {"piece_id": "bridge", "x": 6, "y": 4},
+    {"piece_id": "window", "x": 0, "y": 5}, {"piece_id": "window", "x": 1, "y": 5}, {"piece_id": "window", "x": 2, "y": 5}, {"piece_id": "window", "x": 3, "y": 5}, {"piece_id": "window", "x": 4, "y": 5}, {"piece_id": "window", "x": 5, "y": 5}, {"piece_id": "window", "x": 6, "y": 5}, {"piece_id": "window", "x": 7, "y": 5},
+    {"piece_id": "small roof", "x": 0, "y": 6}, {"piece_id": "small roof", "x": 1, "y": 6}, {"piece_id": "small roof", "x": 6, "y": 6}, {"piece_id": "small roof", "x": 7, "y": 6},
+    {"piece_id": "large roof", "x": 2, "y": 6}, {"piece_id": "large roof", "x": 4, "y": 6}
+  ],
+  "very_hard_8": [
+    {"piece_id": "window", "x": 0, "y": 0}, {"piece_id": "window", "x": 1, "y": 0}, {"piece_id": "window", "x": 2, "y": 0}, {"piece_id": "window", "x": 3, "y": 0}, {"piece_id": "window", "x": 4, "y": 0}, {"piece_id": "window", "x": 5, "y": 0}, {"piece_id": "window", "x": 6, "y": 0}, {"piece_id": "window", "x": 7, "y": 0},
+    {"piece_id": "2x window", "x": 0, "y": 1}, {"piece_id": "2x window", "x": 2, "y": 1}, {"piece_id": "2x window", "x": 4, "y": 1}, {"piece_id": "2x window", "x": 6, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "2x window", "x": 0, "y": 3}, {"piece_id": "2x window", "x": 2, "y": 3}, {"piece_id": "2x window", "x": 4, "y": 3}, {"piece_id": "2x window", "x": 6, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 4}, {"piece_id": "window", "x": 1, "y": 4}, {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4}, {"piece_id": "window", "x": 6, "y": 4}, {"piece_id": "window", "x": 7, "y": 4},
+    {"piece_id": "2x window", "x": 0, "y": 5}, {"piece_id": "2x window", "x": 2, "y": 5}, {"piece_id": "2x window", "x": 4, "y": 5}, {"piece_id": "2x window", "x": 6, "y": 5},
+    {"piece_id": "small roof", "x": 0, "y": 6}, {"piece_id": "small roof", "x": 1, "y": 6}, {"piece_id": "small roof", "x": 2, "y": 6}, {"piece_id": "small roof", "x": 3, "y": 6}, {"piece_id": "small roof", "x": 4, "y": 6}, {"piece_id": "small roof", "x": 5, "y": 6}, {"piece_id": "small roof", "x": 6, "y": 6}, {"piece_id": "small roof", "x": 7, "y": 6}
+  ],
+  "very_hard_9": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "bridge", "x": 0, "y": 1}, {"piece_id": "bridge", "x": 2, "y": 1}, {"piece_id": "bridge", "x": 4, "y": 1}, {"piece_id": "bridge", "x": 6, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "bridge", "x": 0, "y": 3}, {"piece_id": "bridge", "x": 2, "y": 3}, {"piece_id": "bridge", "x": 4, "y": 3}, {"piece_id": "bridge", "x": 6, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 4}, {"piece_id": "window", "x": 1, "y": 4}, {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4}, {"piece_id": "window", "x": 6, "y": 4}, {"piece_id": "window", "x": 7, "y": 4},
+    {"piece_id": "bridge", "x": 0, "y": 5}, {"piece_id": "bridge", "x": 2, "y": 5}, {"piece_id": "bridge", "x": 4, "y": 5}, {"piece_id": "bridge", "x": 6, "y": 5},
+    {"piece_id": "small roof", "x": 0, "y": 6}, {"piece_id": "small roof", "x": 1, "y": 6}, {"piece_id": "small roof", "x": 2, "y": 6}, {"piece_id": "small roof", "x": 3, "y": 6}, {"piece_id": "small roof", "x": 4, "y": 6}, {"piece_id": "small roof", "x": 5, "y": 6}, {"piece_id": "small roof", "x": 6, "y": 6}, {"piece_id": "small roof", "x": 7, "y": 6}
+  ],
+  "very_hard_10": [
+    {"piece_id": "2x window", "x": 0, "y": 0}, {"piece_id": "2x window", "x": 2, "y": 0}, {"piece_id": "2x window", "x": 4, "y": 0}, {"piece_id": "2x window", "x": 6, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "bridge", "x": 0, "y": 2}, {"piece_id": "bridge", "x": 2, "y": 2}, {"piece_id": "bridge", "x": 4, "y": 2}, {"piece_id": "bridge", "x": 6, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}, {"piece_id": "window", "x": 7, "y": 3},
+    {"piece_id": "bridge", "x": 0, "y": 4}, {"piece_id": "bridge", "x": 2, "y": 4}, {"piece_id": "bridge", "x": 4, "y": 4}, {"piece_id": "bridge", "x": 6, "y": 4},
+    {"piece_id": "window", "x": 0, "y": 5}, {"piece_id": "window", "x": 1, "y": 5}, {"piece_id": "window", "x": 2, "y": 5}, {"piece_id": "window", "x": 3, "y": 5}, {"piece_id": "window", "x": 4, "y": 5}, {"piece_id": "window", "x": 5, "y": 5}, {"piece_id": "window", "x": 6, "y": 5}, {"piece_id": "window", "x": 7, "y": 5},
+    {"piece_id": "large roof", "x": 0, "y": 6}, {"piece_id": "large roof", "x": 2, "y": 6}, {"piece_id": "large roof", "x": 4, "y": 6}, {"piece_id": "large roof", "x": 6, "y": 6}
+  ],
+  "very_very_hard_1": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "window", "x": 0, "y": 2}, {"piece_id": "window", "x": 1, "y": 2}, {"piece_id": "window", "x": 2, "y": 2}, {"piece_id": "window", "x": 3, "y": 2}, {"piece_id": "window", "x": 4, "y": 2}, {"piece_id": "window", "x": 5, "y": 2}, {"piece_id": "window", "x": 6, "y": 2}, {"piece_id": "window", "x": 7, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}, {"piece_id": "window", "x": 7, "y": 3},
+    {"piece_id": "window", "x": 0, "y": 4}, {"piece_id": "window", "x": 1, "y": 4}, {"piece_id": "window", "x": 2, "y": 4}, {"piece_id": "window", "x": 3, "y": 4}, {"piece_id": "window", "x": 4, "y": 4}, {"piece_id": "window", "x": 5, "y": 4}, {"piece_id": "window", "x": 6, "y": 4}, {"piece_id": "window", "x": 7, "y": 4},
+    {"piece_id": "window", "x": 0, "y": 5}, {"piece_id": "window", "x": 1, "y": 5}, {"piece_id": "window", "x": 2, "y": 5}, {"piece_id": "window", "x": 3, "y": 5}, {"piece_id": "window", "x": 4, "y": 5}, {"piece_id": "window", "x": 5, "y": 5}, {"piece_id": "window", "x": 6, "y": 5}, {"piece_id": "window", "x": 7, "y": 5},
+    {"piece_id": "bridge", "x": 0, "y": 6}, {"piece_id": "bridge", "x": 2, "y": 6}, {"piece_id": "bridge", "x": 4, "y": 6}, {"piece_id": "bridge", "x": 6, "y": 6},
+    {"piece_id": "bridge", "x": 0, "y": 7}, {"piece_id": "bridge", "x": 2, "y": 7}, {"piece_id": "bridge", "x": 4, "y": 7}, {"piece_id": "bridge", "x": 6, "y": 7},
+    {"piece_id": "2x window", "x": 0, "y": 8}, {"piece_id": "2x window", "x": 2, "y": 8}, {"piece_id": "2x window", "x": 4, "y": 8}, {"piece_id": "2x window", "x": 6, "y": 8},
+    {"piece_id": "small roof", "x": 0, "y": 9}, {"piece_id": "small roof", "x": 1, "y": 9}, {"piece_id": "small roof", "x": 2, "y": 9}, {"piece_id": "small roof", "x": 3, "y": 9}, {"piece_id": "small roof", "x": 4, "y": 9}, {"piece_id": "small roof", "x": 5, "y": 9}, {"piece_id": "small roof", "x": 6, "y": 9}, {"piece_id": "small roof", "x": 7, "y": 9}
+  ],
+  "very_very_hard_2": [
+    {"piece_id": "door", "x": 0, "y": 0}, {"piece_id": "door", "x": 1, "y": 0}, {"piece_id": "door", "x": 2, "y": 0}, {"piece_id": "door", "x": 3, "y": 0}, {"piece_id": "door", "x": 4, "y": 0}, {"piece_id": "door", "x": 5, "y": 0}, {"piece_id": "door", "x": 6, "y": 0}, {"piece_id": "door", "x": 7, "y": 0},
+    {"piece_id": "window", "x": 0, "y": 1}, {"piece_id": "window", "x": 1, "y": 1}, {"piece_id": "window", "x": 2, "y": 1}, {"piece_id": "window", "x": 3, "y": 1}, {"piece_id": "window", "x": 4, "y": 1}, {"piece_id": "window", "x": 5, "y": 1}, {"piece_id": "window", "x": 6, "y": 1}, {"piece_id": "window", "x": 7, "y": 1},
+    {"piece_id": "2x window", "x": 0, "y": 2}, {"piece_id": "2x window", "x": 2, "y": 2}, {"piece_id": "2x window", "x": 4, "y": 2}, {"piece_id": "2x window", "x": 6, "y": 2},
+    {"piece_id": "window", "x": 0, "y": 3}, {"piece_id": "window", "x": 1, "y": 3}, {"piece_id": "window", "x": 2, "y": 3}, {"piece_id": "window", "x": 3, "y": 3}, {"piece_id": "window", "x": 4, "y": 3}, {"piece_id": "window", "x": 5, "y": 3}, {"piece_id": "window", "x": 6, "y": 3}, {"piece_id": "window", "x": 7, "y": 3},
+    {"piece_id": "2x window", "x": 0, "y": 4}, {"piece_id": "2x window", "x": 2, "y": 4}, {"piece_id": "2x window", "x": 4, "y": 4}, {"piece_id": "2x window", "x": 6, "y": 4},
+    {"piece_id": "window", "x": 0, "y": 5}, {"piece_id": "window", "x": 1, "y": 5}, {"piece_id": "window", "x": 2, "y": 5}, {"piece_id": "window", "x": 3, "y": 5}, {"piece_id": "window", "x": 4, "y": 5}, {"piece_id": "window", "x": 5, "y": 5}, {"piece_id": "window", "x": 6, "y": 5}, {"piece_id": "window", "x": 7, "y": 5},
+    {"piece_id": "bridge", "x": 0, "y": 6}, {"piece_id": "bridge", "x": 2, "y": 6}, {"piece_id": "bridge", "x": 4, "y": 6}, {"piece_id": "bridge", "x": 6, "y": 6},
+    {"piece_id": "window", "x": 0, "y": 7}, {"piece_id": "window", "x": 1, "y": 7}, {"piece_id": "window", "x": 2, "y": 7}, {"piece_id": "window", "x": 3, "y": 7}, {"piece_id": "window", "x": 4, "y": 7}, {"piece_id": "window", "x": 5, "y": 7}, {"piece_id": "window", "x": 6, "y": 7}, {"piece_id": "window", "x": 7, "y": 7},
+    {"piece_id": "tower clock", "x": 0, "y": 8}, {"piece_id": "tower clock", "x": 1, "y": 8}, {"piece_id": "tower clock", "x": 2, "y": 8}, {"piece_id": "tower clock", "x": 3, "y": 8}, {"piece_id": "tower clock", "x": 4, "y": 8}, {"piece_id": "tower clock", "x": 5, "y": 8}, {"piece_id": "tower clock", "x": 6, "y": 8},
+    {"piece_id": "window", "x": 7, "y": 8},
+    {"piece_id": "small roof", "x": 7, "y": 9}
+  ]
+}

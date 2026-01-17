@@ -1,0 +1,39 @@
+Com base em pieces.json:
+[
+  {"id": "window", "width": 1, "height": 1, "color": "green", "format": "square", "max_quantity": 49},
+  {"id": "2x window", "width": 2, "height": 1, "color": "red", "format": "square", "max_quantity": 24},
+  {"id": "tower clock", "width": 1, "height": 2, "color": "blue", "format": "square", "max_quantity": 7},
+  {"id": "small roof", "width": 1, "height": 1, "color": "red", "format": "triangle", "max_quantity": 41},
+  {"id": "large roof", "width": 2, "height": 2, "color": "red", "format": "triangle", "max_quantity": 7},
+  {"id": "bridge", "width": 2, "height": 1, "color": "red", "format": "arc", "max_quantity": 16},
+  {"id": "door", "width": 1, "height": 1, "color": "beige", "format": "arc", "max_quantity": 16}
+]
+
+Você irá montar 10 desafios de cada complexidade: easy, medium, hard, very hard.
+
+Suporte: Todas as peças começam em y=0 ou possuem uma peça diretamente abaixo em y-1. Para peças largas (largura 2), garanta que ambos os pontos de apoio inferiores estivessem preenchidos.
+
+Não é possível adicionar peças acima de triangulos.
+
+Peças com width 2 precisam de apoio nas duas células abaixo.
+
+Não sobreposição: Cada coordenada (x, y) é única para cada peça, respeitando as dimensões width e height de cada uma.
+
+Limites: A largura máxima utilizada é 8 e a altura máxima 10.
+
+Dificuldade: O número de peças escala de 5-10 (Easy), 11 - 20 (Medium) e 21-30 (Hard), 31 - 50 (Very Hard).
+
+Quantidades: Respeite a quantidade máximas da peça descrito em "max_quantity". 
+
+Seja criativo, misture os tipos de peça descritos em "type", para que faça sentido visualmente, desenhe arquiteturas diferentes para cada desafio. A ideia é brincar de engenharia.
+
+Este é um exemplo correto:
+"1": [{"piece_id": "2","x": 0,"y": 0},{"piece_id": "1","x": 2,"y": 0},{"piece_id": "3","x": 0,"y": 1},{"piece_id": "3","x": 1,"y": 1},{"piece_id": "5","x": 0,"y": 3}],
+
+Este é um exemplo errado, onde um bloco fica sem apoio:
+"2": [{"piece_id": "2","x": 0,"y": 0},{"piece_id": "1","x": 2,"y": 0},{"piece_id": "6","x": 4,"y": 0},{"piece_id": "3","x": 0,"y": 1},{"piece_id": "3","x": 1,"y": 1},{"piece_id": "3","x": 2,"y": 1},{"piece_id": "3","x": 3,"y": 1},{"piece_id": "3","x": 4,"y": 1},{"piece_id": "5","x": 0,"y": 3},{"piece_id": "4","x": 2,"y": 3},{"piece_id": "7","x": 4,"y": 3}]
+
+Formato de saída esperada:
+{"easy_1": [], "easy_2": [], "medium_1": [], "hard_1": []}
+
+Me traga apenas os desafios de nível very hard.
