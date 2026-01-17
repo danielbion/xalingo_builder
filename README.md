@@ -23,7 +23,7 @@ Isso criará um arquivo `construction.pdf` contendo a renderização visual de t
 ## Descrição
 
 - Cada peça é desenhada com base em seu formato (square, triangle, arc), largura, altura e cor.
-- As formas são escaladas por um fator de 65 pixels por unidade para refletir a peça física.
+- As formas são escaladas por um fator de 60 pixels por unidade para refletir a peça física.
 - As peças são arranjadas em uma grade no PDF.
 
 ## Troubleshooting

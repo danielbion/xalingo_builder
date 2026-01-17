@@ -22,7 +22,7 @@ color_map = {
 }
 
 # Scale factor for sizes and positions
-scale = 65
+scale = 60
 
 # Draw each construction on a separate page
 def draw_square(c, x, y_bottom, width, height, color):
